@@ -1,6 +1,6 @@
 name: R.E.Moyen Professional Profile
 favicon: null
-layout_spectrum: 0.6861932794563472
+layout_spectrum: 0.61789
 typography_spectrum: 0.15312672988511622
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9775111535564065
-  lightness: 0.5211849596817046
+    - '#20232a'
+    - '#757c8e'
+    - '#393d49'
+    - '#eeeeee'
+    - '#b1b2b4'
+  brandStrength: 0.5
+  lightness: 0.1875
   saturation: 0.12989117880351841
   rhythmicContrast: 0.9304976856801659
 purpose: []
