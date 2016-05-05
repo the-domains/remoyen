@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "On this page you'll find a few destinations that I wish to share and hope that it does well in displaying my dedication and passion to the hobbies I have and with to make a career out of them. Some have received less attention than I would like to admit. "
-datePublished: '2016-05-05T17:14:33.145Z'
-dateModified: '2016-05-05T17:14:20.790Z'
+datePublished: '2016-05-05T17:40:30.849Z'
+dateModified: '2016-05-05T17:40:21.555Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-path-of-hobbies.md
